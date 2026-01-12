@@ -282,3 +282,7 @@ dotnet run --project samples/MqttClient.Sample
 ## License
 
 MIT License
+
+<a href="https://contributors-img.web.app/image?repo=dotnetcore/FreeSql">
+  <img src="https://contributors-img.web.app/image?repo=dotnetcore/FreeSql" />
+</a>
